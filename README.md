@@ -2,7 +2,7 @@
 - 👀 I’m interested in CV,AI,AR/VR
 - 🌱 I’m currently learning and playing these stuffs
 - 💞️ I’m looking to collaborate on ...
-- 📫 
+- 📫 https://www.linkedin.com/feed/
 
 <!---
 ThienTran8/ThienTran8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

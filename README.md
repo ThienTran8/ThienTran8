@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thien Tran
 - 👀 I’m interested in CV,AI,AR/VR
-- 🌱 I’m currently learning and playing these stuffs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working and playing these stuffs
 - 📫 https://www.linkedin.com/feed/
 
 <!---
